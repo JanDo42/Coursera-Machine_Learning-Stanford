@@ -1,1 +1,1 @@
-# Coursera-Machine_Learning-Stanford
+Assignments for the Machin Learning course of Stanford University by Andrew Ng
